@@ -1,10 +1,14 @@
-#include <stdio.h>
-#include <stdib.h>
+# include <stdio.h>
+# include <stdib.h>
+int number = atoi(argv[1]);{
+printf ("introduce number: \n");
 
-printf ("introduce number")
-int number = atoi(argv[1]);
 
-if a % 2 == 0:
-    print('El número', a, 'es par.')
-else:
-    print('El número', a, 'es impar.')
+if (a % 2 == 0{
+    print('number', a, 'es even.');
+} else {
+
+    print('number ', a, 'is odd.');
+    }
+
+    return 0;
